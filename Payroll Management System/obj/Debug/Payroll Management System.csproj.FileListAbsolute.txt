@@ -1,0 +1,54 @@
+c:\users\shuvo\documents\visual studio 2015\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe.config
+c:\users\shuvo\documents\visual studio 2015\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
+c:\users\shuvo\documents\visual studio 2015\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+c:\users\shuvo\documents\visual studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csprojResolveAssemblyReference.cache
+c:\users\shuvo\documents\visual studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Form1.resources
+c:\users\shuvo\documents\visual studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Properties.Resources.resources
+c:\users\shuvo\documents\visual studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csproj.GenerateResource.Cache
+c:\users\shuvo\documents\visual studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.exe
+c:\users\shuvo\documents\visual studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.pdb
+C:\Users\SHUVO\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll_DB.mdf
+C:\Users\SHUVO\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll_DB_log.ldf
+C:\Users\SHUVO\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.AdminForm1.resources
+C:\Users\SHUVO\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.AdminForm2.resources
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe.config
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csprojResolveAssemblyReference.cache
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.AdminForm1.resources
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.AdminForm2.resources
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Form1.resources
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csproj.GenerateResource.Cache
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.exe
+C:\Users\Mike E\Documents\Visual Studio 2017\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.pdb
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe.config
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.exe
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.pdb
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csprojResolveAssemblyReference.cache
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.AdminForm1.resources
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.AdminForm2.resources
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Form1.resources
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csproj.GenerateResource.Cache
+C:\Users\cloud\OneDrive\Documents\Visual Studio 2015\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.BUBT.resources
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe.config
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csprojResolveAssemblyReference.cache
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.AdminForm1.resources
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.AdminForm2.resources
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Form1.resources
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.BUBT.resources
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csproj.GenerateResource.Cache
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.exe
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.pdb
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\bin\Debug\MetroFramework.dll
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Admin_view.resources
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Form3.resources
+C:\Users\MikE\Downloads\Compressed\Payroll Management System\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.testing.resources
